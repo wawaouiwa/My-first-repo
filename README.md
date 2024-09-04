@@ -1,2 +1,2 @@
 # My-first-repo
-![foto michelle](img/michelle-pasfoto.jpeg)
+![foto michelle](img/michelle-pasfoto.jpg)
